@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6885-2D0E
+
+ Directory of C:\Users\user\test
+
+06/20/2018  10:11 AM    <DIR>          .
+06/20/2018  10:11 AM    <DIR>          ..
+06/20/2018  10:11 AM                 0 file_from_other_EOM.txt
+06/20/2018  10:08 AM                27 test.txt
+06/20/2018  10:09 AM                29 test2.txt
+               3 File(s)             56 bytes
+               2 Dir(s)   5,500,350,464 bytes free
